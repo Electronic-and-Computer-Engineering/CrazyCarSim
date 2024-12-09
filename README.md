@@ -4,7 +4,7 @@
 This simulator should simulate the Crazy Car, therefore you can simulate different scenarios for your vehicle.
 MATLAB TOOLBOXES needed:
 		
-		'Image Processing Toolbox'
+	'Image Processing Toolbox'
         'Instrument Control Toolbox'
         'Lidar Toolbox'
         'Navigation Toolbox'
