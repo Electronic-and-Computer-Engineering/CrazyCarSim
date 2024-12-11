@@ -1,6 +1,8 @@
 # CrazyCar-Simulator 0.9a
 ==========================
 
+![Alt-Text](/Pfad/zum/Bild.jpg)
+
 This simulator should simulate the Crazy Car, therefore you can simulate different scenarios for your vehicle.
 MATLAB TOOLBOXES needed:
 		
