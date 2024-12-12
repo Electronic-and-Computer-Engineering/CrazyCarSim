@@ -170,7 +170,7 @@ function envHandle = initCCHandleEnv()
         envHandle.Logo.Toolbar.BusyAction = 'cancel';
         envHandle.Logo.Tag = 'Axs_tag'; 
         disableDefaultInteractivity(envHandle.Logo);
-        imshow('+env/logo.png', 'Parent', envHandle.Logo);
+        imshow('+env/logo.PNG', 'Parent', envHandle.Logo);
         
         drawnow;
         time.milliPause(10^-9);
