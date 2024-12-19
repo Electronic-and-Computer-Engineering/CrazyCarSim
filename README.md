@@ -8,7 +8,13 @@
 1.  **Install a C-Compiler in MATLAB**
     
     *   Open MATLAB and go to the "Add-Ons" menu.
-    *   Search for and install the **MinGW64** Add-On.'Instrument Control Toolbox' 'Lidar Toolbox' 'Navigation Toolbox' 'Robotics System Toolbox' 'ROS Toolbox'
+    *   Search for and install the **MinGW64** Add-On.
+
+        'Instrument Control Toolbox' 
+        'Lidar Toolbox' 
+        'Navigation Toolbox' 
+        'Robotics System Toolbox' 
+        'ROS Toolbox'
         
 2.  **Configure the Compiler**
     
