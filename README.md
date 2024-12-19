@@ -1,7 +1,7 @@
-![CrazyCar Sim Picture](./+env/CCBild2024.png)
-
 # CrazyCar-Simulator 0.9a
 ==========================
+
+![CrazyCar Sim Picture](./+env/CCBild2024.png)
 
 ### Instructions for Porting Your Algorithm to the Simulator as C-Code
 
