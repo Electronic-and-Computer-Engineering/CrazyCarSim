@@ -1,4 +1,4 @@
-![CrazyCar Sim Picture](+env\CCBild2024.png)
+![CrazyCar Sim Picture](./+env/CCBild2024.png)
 
 # CrazyCar-Simulator 0.9a
 ==========================
