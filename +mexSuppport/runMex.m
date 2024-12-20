@@ -12,7 +12,7 @@ for i = 1:length(cFiles)
 end
 
 for i = 1:countFolders
-   cFiles = filemng.dirlist(['+algorithm\',subFolders{1,i}], '*.c');
+   cFiles = filemng.dirlist(['+algorithm/',subFolders{1,i}], '*.c');
    if (~isnumeric(cFiles))
         for cIdx = 1:length(cFiles)
              s = [s,cFiles{i}];
